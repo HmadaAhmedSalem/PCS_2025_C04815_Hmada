@@ -1,33 +1,5 @@
-Ce que nous avons fait :
+Durant la deuxième semaine de notre cours de Python pour le calcul scientifique, nous avons abordé de nombreux concepts nouveaux et essentiels. Nous avons commencé par des travaux pratiques sur la bibliothèque Pandas, qui nous ont permis de manipuler efficacement des données structurées. Ensuite, nous avons étudié un document dédié à la data collection, approfondissant les méthodes d’acquisition et de traitement des données. Enfin, nous avons résumé les chapitres 4, 5 et 6 du livre, qui offrent une compréhension solide de Python appliqué aux mathématiques, notamment à l’algèbre linéaire.
 
-Durant la première semaine de la formation, nous avons abordé plusieurs éléments importants sur le plan théorique. Le cours a principalement porté sur la méthodologie de travail sur les articles scientifiques, en particulier la manière de :
-lire efficacement un article,
-dégager une problématique,
-identifier l’approche proposée dans l’article,
-et comprendre la classification des revues scientifiques (Q1, Q2, Q3, Q4).
+Ces trois chapitres nous ont offert une progression complète dans la programmation scientifique avec Python. Du traitement avancé des tableaux à l’algèbre linéaire numérique, jusqu’à la visualisation dynamique des données, chaque partie nous a permis d’acquérir des compétences à la fois théoriques et pratiques. Les exercices réalisés ont renforcé notre compréhension des notions fondamentales tout en développant notre maîtrise des bibliothèques NumPy, SciPy et Matplotlib.
 
-
-Ce que j’ai appris :
-
-Durant cette semaine, il nous a été demandé de lire trois chapitres du livre partagé (faire les exercices), ainsi que de réaliser une comparaison entre trois langages scientifiques : Python, Julia et Mojo.
-
-Cette double activité m’a permis de découvrir et d’approfondir plusieurs notions importantes, notamment :
-
-L’utilisation des librairies NumPy et Matplotlib en Python, très utiles pour les calculs scientifiques et la visualisation de données.
-
-Les caractéristiques, avantages et limites des trois langages étudiés, ainsi que leur pertinence dans le domaine de la recherche scientifique.
-
-
-Mes attentes Pour les prochaines semaines :
-
-j’aimerais que, 
-Nous travaillions ensemble sur un article scientifique, afin d’en dégager collectivement la problématique, l’approche proposée et les perspectives.
-
-Cela permettrait d’avoir une démarche plus pratique et méthodique dans l’analyse des articles.
-
-J’espère aussi découvrir de nouveaux concepts qui pourront m’aider dans la phase de contribution scientifique, notamment pour ma future publication.
-
-
-Les difficultés rencontrées:
-Je n’ai pas rencontré de grandes difficultés techniques durant la réalisation du travail. Toutefois, j’ai trouvé que le temps imparti était très court : une seule semaine pour lire trois chapitres, faire les exercices, rédiger un résumé, effectuer une comparaison entre trois langages et en parallèle travailler sur un article scientifique !.
-
+Ces acquis constituent un socle robuste, indispensable pour la conduite de projets d’analyse numérique, de modélisation scientifique ou encore d’intelligence artificielle, où la manipulation précise et efficace des données joue un rôle crucial.
